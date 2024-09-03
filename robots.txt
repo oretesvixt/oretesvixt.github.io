@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oretesvixt.github.io/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/app/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/assets/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/css/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/includes/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/item/sitemap.html.gz
+Sitemap: https://oretesvixt.github.io/src/sitemap.html.gz
